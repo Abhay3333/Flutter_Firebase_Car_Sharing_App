@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "433160163482",
+    "project_id": "car-sharing-app-2735e",
+    "storage_bucket": "car-sharing-app-2735e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433160163482:android:5e395c023189f164f80f23",
+        "android_client_info": {
+          "package_name": "com.example.car_sharing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433160163482-sci8n1qb663q99hd2k16pcvvg1d2d1nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtTaBjDK046Fni84Wm7BZ3WJHkKRVitdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433160163482-sci8n1qb663q99hd2k16pcvvg1d2d1nr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "433160163482-ifgoupf3ibvq095748q9mpsgv0ih5bjn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carSharingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
